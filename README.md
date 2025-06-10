@@ -1,3 +1,4 @@
+Brain Tumor Detection using Machine Learning
 📁 Dataset
 The dataset used in this project is organized into the following directory structure on Google Drive:
 
